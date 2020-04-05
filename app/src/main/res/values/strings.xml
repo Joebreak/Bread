@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Test1</string>
+    <string name="app_name">Bread</string>
+
+    <string name="btn00_name">建立資料夾</string>
+    <string name="btn01_name">取個校花當老婆</string>
+    <string name="btn02_name">鹿鼎記</string>
 </resources>

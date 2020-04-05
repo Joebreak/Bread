@@ -15,12 +15,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void note1(View view) {
-        Intent intent = new Intent(this,Note1.class);
+        Intent intent = new Intent(this, Note1.class);
         startActivity(intent);
     }
 
     public void note2(View view) {
-        Intent intent = new Intent(this,Note2.class);
+        Intent intent = new Intent(this, Note2.class);
         startActivity(intent);
     }
 }
